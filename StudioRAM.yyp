@@ -55,27 +55,11 @@
             }
         },
         {
-            "Key": "381aa266-8981-492b-afcc-f00751ca8bcc",
-            "Value": {
-                "id": "99c3623a-20ca-43a0-a6cb-8c403c952fdd",
-                "resourcePath": "sprites\\test\\test.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3d4ce136-cc6a-4dec-bb39-2de5bb8411ce",
             "Value": {
                 "id": "06339189-c82b-4735-88f6-7130898955f6",
                 "resourcePath": "views\\3d4ce136-cc6a-4dec-bb39-2de5bb8411ce.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "4a468941-36d2-4cf8-9c82-ef3b88d85154",
-            "Value": {
-                "id": "38c8fa23-029c-4687-a1bb-0f4ac980427b",
-                "resourcePath": "objects\\oDrew\\oDrew.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -108,14 +92,6 @@
                 "id": "826f87e9-e59a-4018-af42-9975a4e315ec",
                 "resourcePath": "views\\5d0c5f4c-f532-4460-a321-5898aacf817a.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "64ca6740-5b5c-46dc-b0ed-1e2ba28cccc5",
-            "Value": {
-                "id": "a74aae37-c702-4281-90c4-2905b72c99a8",
-                "resourcePath": "sprites\\DREW\\DREW.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
