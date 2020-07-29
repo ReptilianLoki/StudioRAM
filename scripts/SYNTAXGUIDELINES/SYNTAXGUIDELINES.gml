@@ -12,7 +12,7 @@
    ROOMS = "r_roomname"
    NOTES = "n_notename"
    INCLUDED FILES = "i_includedfilenames"
-   EXTENSIONS = "e_extensionname"   
+   EXTENSIONS = "e_extensionname" 
  */
 #endregion
 #region GENERAL CONVENTIONS
@@ -29,6 +29,9 @@
 			  {
 		          suckdick = 0;
 			  } 
-			  
+	- Don't exceed EIGHTY (80) characters per line
+	- Var with MULTIPLE WORDS = no spaces, all lowercase, underscores
+		ie. VAR move here = move_here
+	- 
 */
 #endregion
