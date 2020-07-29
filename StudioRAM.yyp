@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "d8d8c0a2-ecaa-4ad6-b630-6eb103756fcc",
+            "Value": {
+                "id": "743ea14d-1295-4726-8b63-f3597b8756e9",
+                "resourcePath": "objects\\gfouerhgr\\gfouerhgr.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e3066d16-be3d-437c-8bc9-2e505909e97e",
             "Value": {
                 "id": "8a3b229d-b838-4047-bfb6-9001b6b05257",
