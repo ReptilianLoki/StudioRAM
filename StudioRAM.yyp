@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "ae9ffe50-aa89-4a18-80b7-18ea358da384",
+            "Value": {
+                "id": "6fb3683e-0c21-4e79-96a2-91260aab8007",
+                "resourcePath": "scripts\\SYNTAXGUIDELINES\\SYNTAXGUIDELINES.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b6bed27b-eb23-4b3f-9e22-df6c9c6d29fb",
             "Value": {
                 "id": "a488eaaa-68d7-4e92-9a55-3e4c51abd4e4",
@@ -192,7 +200,7 @@
         }
     ],
     "script_order": [
-        
+        "ae9ffe50-aa89-4a18-80b7-18ea358da384"
     ],
     "tutorial": ""
 }
