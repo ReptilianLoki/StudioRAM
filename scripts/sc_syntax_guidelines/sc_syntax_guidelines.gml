@@ -33,6 +33,7 @@
 	- Don't exceed EIGHTY (80) characters per line
 	- Variables with MULTIPLE WORDS = no spaces, all lowercase, underscores
 		ie. move_here = 0; 
-	- 
+	- TEMPORARY VARIABLES (var) use _ in front of variable name
+		ie. var _move_here = 0; 
 */
 #endregion
