@@ -4,12 +4,12 @@
     "mvc": "1.1",
     "name": "cabc60dd-c696-4daa-a0f5-36da99d57785",
     "children": [
-        "67c8740f-f9aa-4743-89ef-2e86f27566ae",
-        "f47ca33e-6850-428a-b301-c3b7fd456f00",
+        "49b03dce-6eed-416a-8500-a6586fd70cdd",
+        "ce275168-59c7-4e93-ad68-9b63967654f0",
         "925469a7-bb23-4710-947d-d3d515c1e39f"
     ],
     "filterType": "GMSprite",
-    "folderName": "PLAYER",
+    "folderName": "PLAYER(Ryan)",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
