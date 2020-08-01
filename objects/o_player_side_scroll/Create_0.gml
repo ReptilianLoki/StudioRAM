@@ -13,7 +13,8 @@ jump_height = -9;
 enum player
 {
 	move,
-	jump
+	hurt,
+	death
 }
 
 state = player.move;

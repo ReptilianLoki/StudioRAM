@@ -17,14 +17,32 @@ switch state
 	//Check player's animation 
 	sc_check_animation()
 	
+	//Check if player is on the ground
+	sc_check_ground();
+	
+	#region Change direction of sprite
+	if(xspeed != 0)
+	{
+		image_xscale = sign(xspeed);
+	}
+	#endregion
+	
 	//Check if player is moving
 	sc_check_move_input()
+	
+	sc_move(o_solid);
 	
 	break;
 	#endregion
 	
-	#region Player Jump
-	case player.jump:
+	#region Player Hurt
+	case player.hurt:
+	
+	break;
+	#endregion
+	
+	#region Player Death
+	case player.death:
 	
 	break;
 	#endregion
