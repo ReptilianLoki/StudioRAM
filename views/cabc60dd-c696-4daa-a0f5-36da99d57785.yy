@@ -9,7 +9,7 @@
         "925469a7-bb23-4710-947d-d3d515c1e39f"
     ],
     "filterType": "GMSprite",
-    "folderName": "PLAYER(Ryan)",
+    "folderName": "PLAYER",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
