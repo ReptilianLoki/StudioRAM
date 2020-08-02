@@ -10,10 +10,10 @@ if(!place_meeting(x, y + 1, o_solid))
 	//image_index = (yspeed > 0);
 	
 	// Control the jump height
-	//if(up_release and yspeed < -6)
-	//{
-	//	yspeed = -3;
-	//}
+	if(up_release and yspeed < -6)
+	{
+		yspeed = -3;
+	}
 }
 else
 {

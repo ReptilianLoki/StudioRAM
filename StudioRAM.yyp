@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "4bd5e359-db3d-45e7-b91c-13b41080f702",
+            "Value": {
+                "id": "1daecf4a-66a6-4f4b-9f21-50f3004ac1ac",
+                "resourcePath": "views\\4bd5e359-db3d-45e7-b91c-13b41080f702.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "4db0f3be-e2e1-44ce-b49f-24d107dc59e6",
             "Value": {
                 "id": "9b2fba17-b13d-4826-83e3-fd98f1b3d75b",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "8421b422-110c-40c2-bd3c-3f1a779b3f36",
+            "Value": {
+                "id": "d0f2f070-76fc-48df-a684-ba89bed29c35",
+                "resourcePath": "sprites\\Dirt_Wall\\Dirt_Wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8cac37ab-1c09-4101-9484-0ab9373ddec0",
             "Value": {
                 "id": "be794ec4-1f31-4baf-945b-b4d650023f25",
@@ -276,6 +292,14 @@
                 "id": "eee6d8e0-cf09-4fd4-a726-aa9b03c590b8",
                 "resourcePath": "rooms\\side_scroller\\side_scroller.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a67997ad-fe2d-426e-b2a8-7782c5e3f085",
+            "Value": {
+                "id": "38d719d3-a6a4-4312-8760-6f683b21c09f",
+                "resourcePath": "sprites\\s_dirt\\s_dirt.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -404,6 +428,14 @@
                 "id": "322fd463-1eb9-4936-8fa9-a51cc225f2af",
                 "resourcePath": "views\\fb1e8aaa-24d8-4b65-b513-b5c1b9d67caa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fe6a0acd-8bc5-4793-a030-90c13f985916",
+            "Value": {
+                "id": "1c537047-dfd0-4d97-8d3b-7fe780b71380",
+                "resourcePath": "tilesets\\t_dirt\\t_dirt.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {

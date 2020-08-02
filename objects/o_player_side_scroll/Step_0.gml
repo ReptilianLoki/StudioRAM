@@ -5,7 +5,7 @@ up = (keyboard_check(vk_up) or keyboard_check(ord("W")));
 left = (keyboard_check(vk_left) or keyboard_check(ord("A")));
 right = (keyboard_check(vk_right) or keyboard_check(ord("D")));
 // down = (keyboard_check(vk_down) or keyboard_check(ord("S")));
-up_release = (keyboard_check(vk_up) or keyboard_check(ord("W")));
+up_release = (keyboard_check_released(vk_up) or keyboard_check_released(ord("W")));
 #endregion
 
 #region Player State Machine

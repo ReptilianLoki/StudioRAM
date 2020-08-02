@@ -11,7 +11,7 @@
         "3a4bfe3f-63fd-4e7f-b6f9-3d346c09da4a"
     ],
     "filterType": "GMScript",
-    "folderName": "PLAYER",
+    "folderName": "PLAYER(SS)",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
