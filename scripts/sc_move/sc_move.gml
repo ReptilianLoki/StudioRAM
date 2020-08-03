@@ -2,6 +2,12 @@
 /// @param collision_object
 var collision_object = argument0;
 
+// Check movement against ground
+sc_check_ground();
+	
+// Check left and right movement
+sc_move_right_left();
+
 // Horizontal Collisions
 if(place_meeting(x + xspeed, y, collision_object))
 {

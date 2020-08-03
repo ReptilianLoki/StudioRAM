@@ -1,6 +1,5 @@
 /// @description Checks if Player is on Solid Ground
 
-// Check if player is on the ground
 if(!place_meeting(x, y + 1, o_solid))
 {
 	yspeed += gravity_acceleration;
@@ -23,6 +22,6 @@ else
 	if(up)
 	{
 		yspeed = jump_height;
-		//audio_play_sound(a_jump, 5, false);
+		// audio_play_sound(a_jump, 5, false);
 	}
 }

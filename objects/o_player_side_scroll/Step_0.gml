@@ -13,24 +13,14 @@ switch state
 {
 	#region Player Move
 	case player.move:
+	// Check player animation
+	sc_change_image();
 	
-	//Check player's animation 
-	sc_check_animation()
-	
-	//Check if player is on the ground
-	sc_check_ground();
-	
-	#region Change direction of sprite
-	if(xspeed != 0)
-	{
-		image_xscale = sign(xspeed);
-	}
-	#endregion
-	
-	//Check if player is moving
-	sc_check_move_input()
-	
+	// Move Player
 	sc_move(o_solid);
+	
+	// Check if Player is Stuck
+	sc_check_stuck(o_solid);
 	
 	break;
 	#endregion

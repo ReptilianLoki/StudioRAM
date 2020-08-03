@@ -1,8 +1,8 @@
 {
-    "id": "5e00bb64-b4c1-4f91-8473-d4db2cb57067",
+    "id": "bcdce854-b0e8-4cb7-b60c-6c5e5a38e19a",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "sc_check_move_input",
+    "name": "sc_change_image",
     "IsCompatibility": false,
     "IsDnD": false
 }
