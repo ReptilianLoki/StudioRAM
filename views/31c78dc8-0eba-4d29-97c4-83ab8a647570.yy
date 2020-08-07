@@ -4,8 +4,7 @@
     "mvc": "1.1",
     "name": "31c78dc8-0eba-4d29-97c4-83ab8a647570",
     "children": [
-        "028b2f3f-40e5-4c21-8934-caa6989ebc0a",
-        "4247456c-ad0b-447b-8f33-59035e66fee1"
+        "925469a7-bb23-4710-947d-d3d515c1e39f"
     ],
     "filterType": "GMSprite",
     "folderName": "TOP DOWN",
