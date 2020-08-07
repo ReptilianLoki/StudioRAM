@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "9a9e0299-2b36-4656-8066-85ad826ae268",
+            "Value": {
+                "id": "7f196cdb-a395-4f28-8fa4-837a88edf4b7",
+                "resourcePath": "tilesets\\t_tutorial_tiles\\t_tutorial_tiles.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "a621c7b6-b645-4b0f-8fe3-e926f671e159",
             "Value": {
                 "id": "eee6d8e0-cf09-4fd4-a726-aa9b03c590b8",
@@ -364,6 +372,14 @@
                 "id": "94d16301-1de6-48ba-98a9-51dc24b70349",
                 "resourcePath": "objects\\o_solid\\o_solid.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "acd45793-e396-48ef-a63d-3a18bc731f76",
+            "Value": {
+                "id": "8c649b0c-e893-4896-9852-b1a78f6cfe33",
+                "resourcePath": "tilesets\\t_shadow_ground\\t_shadow_ground.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -444,6 +460,14 @@
                 "id": "ceb59094-30de-47bc-a9a7-195ee971cffb",
                 "resourcePath": "scripts\\sc_apply_friction\\sc_apply_friction.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e09b2c36-bc84-4c30-a8ea-11f28b124dea",
+            "Value": {
+                "id": "33593bb5-672f-4a3f-a516-c6e90862895e",
+                "resourcePath": "objects\\o_tree\\o_tree.yy",
+                "resourceType": "GMObject"
             }
         },
         {

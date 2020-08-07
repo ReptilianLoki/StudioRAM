@@ -19,7 +19,7 @@ if (input_magnitude != 0)
 	image_speed = 1;
 	if (!instance_exists(o_player_dust))
 	{
-	instance_create_layer(x,y,"Instances",o_player_dust);
+	instance_create_layer(x,y,"l_player",o_player_dust);
 	}
 }
 else sprite_index = s_penguin_idle;
