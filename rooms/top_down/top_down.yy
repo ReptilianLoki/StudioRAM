@@ -402,7 +402,7 @@
             "id": "de0f02b1-80ba-4861-babe-f3858689e189",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4294964453 },
+            "colour": { "Value": 4293322443 },
             "depth": 600,
             "grid_x": 32,
             "grid_y": 32,
