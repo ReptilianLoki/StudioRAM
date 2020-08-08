@@ -111,14 +111,6 @@
             }
         },
         {
-            "Key": "3b1ea177-898b-4a4d-97a5-f19a6009de21",
-            "Value": {
-                "id": "b2785f23-3306-4890-9789-2c4a3287f24d",
-                "resourcePath": "sprites\\s_shadow_tree\\s_shadow_tree.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3c69c382-6d71-4656-b340-770527abcfaa",
             "Value": {
                 "id": "e60f2ceb-03a5-448a-b707-9d27973d5f69",
@@ -263,6 +255,14 @@
             }
         },
         {
+            "Key": "6c69736b-9a7a-4134-90f6-53c886e2e1ea",
+            "Value": {
+                "id": "4d3b719d-4f92-4b81-aec7-5d597a01ce33",
+                "resourcePath": "sprites\\s_shadow_tree_small\\s_shadow_tree_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7c44f4d5-ac9f-4ad1-8819-c829b6ff6db1",
             "Value": {
                 "id": "5d7360d3-f719-48c0-951a-dacbf26f44d6",
@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "adb3cf4c-d682-4b04-8c21-fd31fd009ec6",
+            "Value": {
+                "id": "3da57aa9-663f-41f2-817b-fd3e40bec7aa",
+                "resourcePath": "sprites\\s_shadow_tree\\s_shadow_tree.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ae9ffe50-aa89-4a18-80b7-18ea358da384",
             "Value": {
                 "id": "6fb3683e-0c21-4e79-96a2-91260aab8007",
@@ -495,6 +503,14 @@
             }
         },
         {
+            "Key": "e8836b03-3dd2-4446-a5c9-c734169c31a9",
+            "Value": {
+                "id": "e57caebb-42c8-4c89-b405-f014e930bd8e",
+                "resourcePath": "sprites\\s_tree_small\\s_tree_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ea01e9e9-c4a3-4f3a-8c50-01751dbf8ed9",
             "Value": {
                 "id": "fbd0ce70-67ab-455d-a19d-84fd515eee74",
@@ -508,6 +524,14 @@
                 "id": "497f0ec0-a1dc-4e3f-a9c6-9188d19353c4",
                 "resourcePath": "sprites\\s_tutorial_tiles\\s_tutorial_tiles.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f33ec26d-a737-40ba-b2b2-777fd63b561f",
+            "Value": {
+                "id": "d80d315c-63cd-47e0-9e08-bc27d3b8ce15",
+                "resourcePath": "objects\\o_tree_small\\o_tree_small.yy",
+                "resourceType": "GMObject"
             }
         },
         {
