@@ -327,11 +327,27 @@
             }
         },
         {
+            "Key": "917e12d5-70ee-40ef-8e6f-98bca6b1a855",
+            "Value": {
+                "id": "80fdbbb5-f2f4-40ae-a6c1-92f9bfd05dfe",
+                "resourcePath": "views\\917e12d5-70ee-40ef-8e6f-98bca6b1a855.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "925469a7-bb23-4710-947d-d3d515c1e39f",
             "Value": {
                 "id": "ee34ef21-a209-4eb0-a74c-fce869249c9c",
                 "resourcePath": "sprites\\s_player_dust\\s_player_dust.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "95618faf-6c45-4cd1-ba3f-17186ee76926",
+            "Value": {
+                "id": "ca8ff465-1c47-4ac1-b78d-058ec651c355",
+                "resourcePath": "objects\\o_player_parent\\o_player_parent.yy",
+                "resourceType": "GMObject"
             }
         },
         {

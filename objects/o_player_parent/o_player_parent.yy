@@ -1,33 +1,23 @@
 {
-    "id": "2941f219-4fb0-4811-82dd-225c90657fd6",
+    "id": "95618faf-6c45-4cd1-ba3f-17186ee76926",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_player_side_scroll",
+    "name": "o_player_parent",
     "eventList": [
         {
-            "id": "ba0f1297-88dd-4c6a-9de5-b1aa9c81ac89",
+            "id": "6fb356e0-d22a-4018-8868-0cf612444981",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "2941f219-4fb0-4811-82dd-225c90657fd6"
-        },
-        {
-            "id": "87fa7a95-4f19-465f-8231-eeb76b30368d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "2941f219-4fb0-4811-82dd-225c90657fd6"
+            "m_owner": "95618faf-6c45-4cd1-ba3f-17186ee76926"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "95618faf-6c45-4cd1-ba3f-17186ee76926",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -41,8 +31,23 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
-    "solid": true,
-    "spriteId": "887579ca-5cb7-4c47-abcc-2c022f733b40",
+    "properties": [
+        {
+            "id": "fc622ff7-123f-4dc2-9dbb-516247828d9a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "5",
+            "varName": "hp",
+            "varType": 1
+        }
+    ],
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
