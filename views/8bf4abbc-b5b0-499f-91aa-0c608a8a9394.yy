@@ -1,0 +1,33 @@
+{
+    "id": "8bf4abbc-b5b0-499f-91aa-0c608a8a9394",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "8bf4abbc-b5b0-499f-91aa-0c608a8a9394",
+    "children": [
+        "6130a394-518a-4d7d-9167-9fdea48cba9b",
+        "54dffeaf-a690-4be8-aa36-488f3cad6212",
+        "0bcaa8cf-ca0c-4ab6-97bd-ec0b8b491fec",
+        "aed82311-8b5f-435c-9f17-c1369f01f831",
+        "9d1126ff-c410-4118-b5b5-1567a75140f1",
+        "c7d5111b-ffe9-4967-8597-348fda5feaf6",
+        "80742cd1-ae29-4166-ae19-4439e6d85009",
+        "4e74f5ea-4414-4b86-a388-a46a083b0223",
+        "8df0cca7-cc53-4876-9f1a-84091316c7d0",
+        "78015e46-e61d-431b-a109-42f447ff0d77",
+        "f63a32fc-5d86-4c4f-b2cd-d1be8132a8d1",
+        "417b0981-fe79-43da-a06b-574d2f17ee01",
+        "d1560b9d-e872-4099-83f7-1aa5964510b1",
+        "44e5ea2b-a8e8-4278-be91-b43938d780f2",
+        "f27310e4-2327-4f9e-ad76-3730db61bc38",
+        "5fb8a037-a40c-4394-a4c6-9d11b690ae30",
+        "9d6e2080-8513-4c8c-b1b5-ded9f8f01d31",
+        "c7b0c5e2-cd2e-4467-a04f-d898c9c36672",
+        "c5638c9c-3233-47a1-a1d3-6e6cf4a060b3",
+        "1f9c7663-7d75-4474-b4eb-22d87629e93d",
+        "98ccf25f-fd6a-472e-a7a3-3955c8cdf9f5"
+    ],
+    "filterType": "GMScript",
+    "folderName": "new_tutorial",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

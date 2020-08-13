@@ -1,3 +1,7 @@
+//added for switching between rooms
+//"T" for top_down and "S" for side_scroller
+event_inherited();
+
 #region PLAYER INPUT
 key_up = keyboard_check(vk_up) or keyboard_check(ord("W"));
 key_down = keyboard_check(vk_down) or keyboard_check(ord("S"));
