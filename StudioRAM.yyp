@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "02c60a10-ec35-4752-9c2d-4bf4204abae3",
+            "Value": {
+                "id": "a8ac2596-7e8f-4e85-8394-ab4635505d55",
+                "resourcePath": "sprites\\s_penguin_idle_sword\\s_penguin_idle_sword.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "047066a1-433a-4a01-aaf4-3b9871752d5a",
             "Value": {
                 "id": "8764ad16-f5c0-413e-abbb-8148d82bd232",
@@ -67,6 +75,14 @@
             "Value": {
                 "id": "9b57d340-fd26-4bb0-bfd3-ffb736e2eae1",
                 "resourcePath": "scripts\\player_knockback_state\\player_knockback_state.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "0f31a475-e652-4cac-90fc-be2bf53aac77",
+            "Value": {
+                "id": "94c495ab-1ffe-4151-bdd5-67fb3bec3f9d",
+                "resourcePath": "scripts\\sc_player_state_free\\sc_player_state_free.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -284,6 +300,14 @@
                 "id": "5a807c88-7e16-40e3-8bf1-890ecbb4c51d",
                 "resourcePath": "objects\\o_game\\o_game.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5ac5fad2-6af7-4444-a789-621aafa1dfd9",
+            "Value": {
+                "id": "c8892265-a27c-4e0e-8fda-7a11571f376c",
+                "resourcePath": "scripts\\sc_penguin_sword\\sc_penguin_sword.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -511,6 +535,14 @@
             }
         },
         {
+            "Key": "98f1b889-6f07-41b9-b039-691d4d5339a3",
+            "Value": {
+                "id": "0502659d-3b16-454a-ba67-c5114766bd68",
+                "resourcePath": "sprites\\s_penguin_run_sword\\s_penguin_run_sword.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9a9e0299-2b36-4656-8066-85ad826ae268",
             "Value": {
                 "id": "7f196cdb-a395-4f28-8fa4-837a88edf4b7",
@@ -727,6 +759,14 @@
             }
         },
         {
+            "Key": "ccd9b883-07eb-4117-a49d-73816f453967",
+            "Value": {
+                "id": "df4ce17a-d6a6-41ee-aa49-cd98085cd6a3",
+                "resourcePath": "views\\ccd9b883-07eb-4117-a49d-73816f453967.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d1560b9d-e872-4099-83f7-1aa5964510b1",
             "Value": {
                 "id": "6c4c3e44-584c-4837-9c70-514107dbbb0b",
@@ -920,9 +960,11 @@
         }
     ],
     "script_order": [
-        "ae9ffe50-aa89-4a18-80b7-18ea358da384",
         "40e23168-f18f-4e7d-a1b9-45b47abc091f",
+        "ae9ffe50-aa89-4a18-80b7-18ea358da384",
         "0588828a-4f9c-409b-8710-51ce5c8c22aa",
+        "0f31a475-e652-4cac-90fc-be2bf53aac77",
+        "5ac5fad2-6af7-4444-a789-621aafa1dfd9",
         "bcdce854-b0e8-4cb7-b60c-6c5e5a38e19a",
         "5e00bb64-b4c1-4f91-8473-d4db2cb57067",
         "e0201194-1d4f-4e16-b878-bdcbc4b41fc8",
