@@ -5,16 +5,6 @@
     "name": "o_tree_small",
     "eventList": [
         {
-            "id": "cef441b8-6232-4ad8-b1aa-284f388ddf70",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "f33ec26d-a737-40ba-b2b2-777fd63b561f"
-        },
-        {
             "id": "fc8b764f-545f-40eb-911d-86b43a6cb1b0",
             "modelName": "GMEvent",
             "mvc": "1.0",
