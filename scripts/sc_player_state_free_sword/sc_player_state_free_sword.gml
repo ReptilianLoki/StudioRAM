@@ -7,14 +7,14 @@ sc_top_down_player_collision();
 if (input_magnitude != 0)
 {
 	direction = input_direction; 
-	sprite_index = s_penguin_run; 
+	sprite_index = s_penguin_run_sword; 
 	image_speed = 1;
 	if (!instance_exists(o_player_dust))
 	{
 	instance_create_layer(x,y,"l_player",o_player_dust);
 	}
 }
-else sprite_index = s_penguin_idle;
+else sprite_index = s_penguin_idle_sword;
 var aimside = sign(mouse_x - x);
 if (aimside != 0) image_xscale = aimside;
 #endregion
