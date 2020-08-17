@@ -15,6 +15,8 @@ input_magnitude = (key_right-key_left !=0) or (key_down-key_up !=0);
 script_execute(state);
 depth = -bbox_bottom; 
 
+
+
 //temp
 if (keyboard_check(ord("P"))) and (state = sc_player_state_free)
 { 

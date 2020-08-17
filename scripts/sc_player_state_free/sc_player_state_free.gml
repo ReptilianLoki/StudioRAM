@@ -21,12 +21,12 @@ if (aimside != 0) image_xscale = aimside;
 #region ACTIVATE ENTITIES
 if (key_activate)
 {
-	var _activateX = lengthdir_x(10,direction);
-	var _activateY = lengthdir_y(10,direction)
-	activate = instance_position(x+_activateX, y+_activateY,o_parent_entities)
+	var _activateX = lengthdir_x(10, direction);
+	var _activateY = lengthdir_y(10, direction);
+	activate = instance_position(x+_activateX, y+_activateY, o_parent_entities)
 	if (activate == noone or activate.entity_activate_script == -1)
 	{
-		state = sc_player_state_attack; 
+		state = sc_player_state_free; 
 	}
 	else
 	{

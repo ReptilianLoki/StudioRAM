@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "6823dd5c-5078-4c21-9364-2251b7a57048",
+            "Value": {
+                "id": "e97f64aa-b2f4-4f8e-8eaa-255987807cc9",
+                "resourcePath": "fonts\\f_text\\f_text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "699b8606-ff67-48cc-940a-da74f2f4019b",
             "Value": {
                 "id": "36b7ca9b-2f8f-4e04-94d6-855283117731",
@@ -435,6 +443,14 @@
             "Value": {
                 "id": "4d3b719d-4f92-4b81-aec7-5d597a01ce33",
                 "resourcePath": "sprites\\s_shadow_tree_small\\s_shadow_tree_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7474d841-c455-4612-b50a-c3aa4eba0b64",
+            "Value": {
+                "id": "3e45b7e5-29c3-4e64-a2b5-c8c7cb46d5de",
+                "resourcePath": "sprites\\s_quest_marker\\s_quest_marker.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -935,6 +951,14 @@
             }
         },
         {
+            "Key": "eff5e41a-6d71-478d-a21f-695487cbdc10",
+            "Value": {
+                "id": "3fbc19d7-19a9-411a-bca2-643a27e02526",
+                "resourcePath": "scripts\\sc_dialouge_responses\\sc_dialouge_responses.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f1cef784-cd14-4022-ab36-861200af09c5",
             "Value": {
                 "id": "497f0ec0-a1dc-4e3f-a9c6-9188d19353c4",
@@ -980,6 +1004,14 @@
                 "id": "7c094e38-37b5-4163-9a05-343ff5985859",
                 "resourcePath": "scripts\\player_crouch_block_state\\player_crouch_block_state.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f66250e8-8148-490a-81de-e5395e63cecb",
+            "Value": {
+                "id": "b77b30c1-91d4-4efb-80c3-24b6b5a1323f",
+                "resourcePath": "objects\\o_game_top_down\\o_game_top_down.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1058,6 +1090,7 @@
         "03c5be7e-4bac-409e-8cd9-edf9367628ae",
         "43ed4c55-3edd-4d51-af85-cd2f639f34a0",
         "9e30f859-0551-44e4-afa6-b7cf360bda96",
+        "eff5e41a-6d71-478d-a21f-695487cbdc10",
         "bcdce854-b0e8-4cb7-b60c-6c5e5a38e19a",
         "5e00bb64-b4c1-4f91-8473-d4db2cb57067",
         "e0201194-1d4f-4e16-b878-bdcbc4b41fc8",
