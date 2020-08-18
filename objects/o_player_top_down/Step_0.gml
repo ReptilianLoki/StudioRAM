@@ -1,6 +1,7 @@
 //added for switching between rooms
 //"T" for top_down and "S" for side_scroller
 event_inherited();
+if (global.picked_up_sword = 1) {state = sc_player_state_free_sword;}
 
 #region PLAYER INPUT
 key_up = keyboard_check(vk_up) or keyboard_check(ord("W"));

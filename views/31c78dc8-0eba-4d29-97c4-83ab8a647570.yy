@@ -20,7 +20,10 @@
         "e8836b03-3dd2-4446-a5c9-c734169c31a9",
         "226561da-c71d-4273-9420-403ad97ddf15",
         "9e20cda8-eefd-4151-9f3a-96bb463f982b",
-        "7474d841-c455-4612-b50a-c3aa4eba0b64"
+        "7474d841-c455-4612-b50a-c3aa4eba0b64",
+        "8c0d5d81-15f0-46c7-b35f-d0c3e1580f73",
+        "5f6138ef-131d-4f7e-9b86-8348ed9e50d9",
+        "3faa2d86-0c65-4201-86eb-cc2dd046dc27"
     ],
     "filterType": "GMSprite",
     "folderName": "TOP DOWN",
